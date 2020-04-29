@@ -1,8 +1,13 @@
 <keymap version="1" name="CrowSongKeymap" parent="$default">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="HippieCompletion" />
 </keymap>
