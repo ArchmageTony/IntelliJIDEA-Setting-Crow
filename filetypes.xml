@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="app" type="Erlang/OTP app" />
+      <removed_mapping ext="app" approved="true" type="Erlang/OTP app" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
+      <mapping ext="app" type="PLAIN_TEXT" />
+      <removed_mapping ext="app" approved="true" type="Erlang/OTP app" />
     </extensionMap>
   </component>
 </application>
