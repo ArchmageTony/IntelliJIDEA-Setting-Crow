@@ -6,7 +6,6 @@
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping ext="app" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="app" approved="true" type="Erlang/OTP app" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
