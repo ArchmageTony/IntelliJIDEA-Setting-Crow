@@ -11,6 +11,7 @@
         <option name="suppressed">
           <set>
             <option value="新的攻略" />
+            <option value="各个地图的" />
           </set>
         </option>
       </SuppressingContext>
