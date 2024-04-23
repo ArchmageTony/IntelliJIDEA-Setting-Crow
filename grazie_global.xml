@@ -10,8 +10,10 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="新的攻略" />
             <option value="各个地图的" />
+            <option value="新的攻略" />
+            <option value="Self explanatory" />
+            <option value="Id" />
           </set>
         </option>
       </SuppressingContext>
