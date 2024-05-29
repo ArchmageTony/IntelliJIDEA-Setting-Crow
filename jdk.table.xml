@@ -193,5 +193,29 @@
       </roots>
       <additional sdk="android-34" />
     </jdk>
+    <jdk version="2">
+      <name value="Python 3.11" />
+      <type value="Python SDK" />
+      <version value="Python 3.11.2" />
+      <homePath value="$USER_HOME$/AppData/Local/Programs/Python/Python311/python.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="3e539fa6-8f4f-4e02-b45d-384d722d79a8">
+        <setting name="FLAVOR_ID" value="WinPythonSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
   </component>
 </application>
