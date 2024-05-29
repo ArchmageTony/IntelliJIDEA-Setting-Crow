@@ -12,7 +12,6 @@
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
-    <option name="defaultPosition" value="Right" />
     <option name="disabledCodeVisionProviderIds">
       <set>
         <option value="vcs.code.vision" />
