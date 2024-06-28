@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
-      <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping ext="app" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="lnk" type="PLAIN_TEXT" />
