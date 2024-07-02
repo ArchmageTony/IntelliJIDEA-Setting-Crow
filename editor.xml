@@ -32,4 +32,7 @@
     </option>
     <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
 </application>
