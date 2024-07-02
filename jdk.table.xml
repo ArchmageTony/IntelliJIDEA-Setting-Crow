@@ -556,7 +556,7 @@
       </additional>
     </jdk>
     <jdk version="2">
-      <name value="Python 3.10 (gkmasToolkit)" />
+      <name value="Python 3.10" />
       <type value="Python SDK" />
       <version value="Python 3.10.6" />
       <homePath value="E:/Development/ETC/gakuen-imas/gkmasToolkit/venv/Scripts/python.exe" />

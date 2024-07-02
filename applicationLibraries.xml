@@ -321,7 +321,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/tree-sitter-languages" />
       </SOURCES>
     </library>
-    <library name="Python 3.10 (gkmasToolkit) interpreter library">
+    <library name="Python 3.10 interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/DLLs" />
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib" />
